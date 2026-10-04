@@ -26,7 +26,7 @@ A dedicated repository containing lecture notes, clean code implementations, and
 | Lec # | Lecture Title & Core Concepts | Status | Notes & Code |
 |:---:|---|:---:|:---:|
 | **01** | Introduction to JAVA & Course Orientation | ✅ Completed | [Notes & Code](<./Lesson-1-Introduction to Java/>) |
-| **02** | Write Your First JAVA Program (JVM, JDK, JRE, JSE vs JEE vs JME) | ✅ Completed | [Notes & Code](./01-Basics/) |
+| **02** | Write Your First JAVA Program (JVM, JDK, JRE, JSE vs JEE vs JME) | ✅ Completed | [Notes & Code](./Lesson-2-JVM,JRE,JDK/) |
 | **03** | Variables & Data Types Explained (Identifiers, Literals, Keywords) | 🔄 In Progress | [Notes & Code](./01-Basics/) |
 | **04** | How Java Stores Negative & Floating Point Numbers Internally | ⏳ Pending | [Notes & Code](./01-Basics/) |
 | **05** | Java Type Conversions, Type Casting & Promotions | ⏳ Pending | [Notes & Code](./01-Basics/) |
