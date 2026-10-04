@@ -25,7 +25,7 @@ A dedicated repository containing lecture notes, clean code implementations, and
 ### 🟢 Phase 1: Java Basics & Flow Control
 | Lec # | Lecture Title & Core Concepts | Status | Notes & Code |
 |:---:|---|:---:|:---:|
-| **01** | Introduction to JAVA & Course Orientation | ✅ Completed | [Notes & Code](./Lesson-1-Introduction%to%Java/) |
+| **01** | Introduction to JAVA & Course Orientation | ✅ Completed | [Notes & Code](<./Lesson-1-Introduction to Java/>) |
 | **02** | Write Your First JAVA Program (JVM, JDK, JRE, JSE vs JEE vs JME) | ✅ Completed | [Notes & Code](./01-Basics/) |
 | **03** | Variables & Data Types Explained (Identifiers, Literals, Keywords) | 🔄 In Progress | [Notes & Code](./01-Basics/) |
 | **04** | How Java Stores Negative & Floating Point Numbers Internally | ⏳ Pending | [Notes & Code](./01-Basics/) |
